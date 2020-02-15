@@ -22,7 +22,7 @@ Examples include [One Drop](https://onedrop.today/), [Hello Heart](https://www.h
 
 From medical imaging to medical records to clinical transcriptions, there’s a lot of excitement about future AI applications in healthcare. Today, many of these companies begin by building individual models: they train models on static, anonymized datasets collected from a few payers or providers, and deploy these models in one hospital at a time. These deployments all rely on critical core infrastructure – such as data anonymization and security, integration with existing data systems, continuous monitoring and compliance, and display on end-user interfaces like PACS systems and EHR software. The following set of startups is focusing on building this next generation of health data infrastructure. The development of high-quality, common infrastructure will be crucial to enabling application developers and subject matter experts to rapidly and safely develop data-intensive applications in healthcare. Much like infrastructure-as-a-service accelerated the development of software companies, health data infrastructure will enable the development of a continuously learning health system. 
 
-Examples include [Synyi](https://www.synyi.com/), [MDClone](https://mdclone.com/), [BrightInsight](https://brightinsight.com/).
+Examples include [Synyi](https://www.synyi.com/), [MDClone](https://mdclone.com/), and [BrightInsight](https://brightinsight.com/).
  
 ## Telemedicine and Telehealth Services
 
