@@ -20,8 +20,9 @@
 
 title: Exploring the AI Landscape
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog engaging with diverse topics in AI, from basic research to product and deployment. 
-  Written by Brandon Yang and Maithra Raghu.
+  Exploring the AI Landscape (Extail) is a blog engaging with diverse topics in artificial intelligence, 
+  from basic research to emerging products to considerations for deployment. 
+  Written by Brandon Yang and Maithra Raghu. Views are our own.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
