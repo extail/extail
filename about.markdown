@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 ### Exploring the AI Landscape 
-is a blog engaging with diverse topics in artificial intelligence, from basic research to emerging products to considerations for deployment. 
+_Exploring the AI Landscape (Extail)_ is a blog engaging with diverse topics in artificial intelligence, from basic research to emerging products to considerations for deployment. 
 
 ### About the Authors
 
-**[Brandon Yang]()** 
+**[Brandon Yang](https://extail.github.io/)** was previously an AI Resident at Google Brain, working on deep learning for point clouds and efficient algorithms for computer vision. He's currently working on Snorkel, an open-source project for programmatic training data management for machine learning systems.
 
-**[Maithra Raghu](https://maithraraghu.com/)** Maithra Raghu is a PhD Candidate at Cornell University and a Research Scientist at Google Brain. Her research interests center on enabling insight driven machine learning design and facilitating human expert collaborations, particularly in the context of medical and healthcare applications.
+**[Maithra Raghu](https://maithraraghu.com/)** is a PhD Candidate at Cornell University and a Research Scientist at Google Brain. Her research interests center on enabling insight-driven machine learning design and facilitating human expert collaborations, particularly in the context of medical and healthcare applications.
 
 **About this Blog** We first met as researchers at Google Brain in Mountain View. We started _Exploring the AI Landscape_ as a joint project to survey field of AI from different perspectives and identify overarching challenges and opportunities.
 
