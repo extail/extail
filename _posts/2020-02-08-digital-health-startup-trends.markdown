@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Startup Trends in AI and Digital Health Products"
+title:  "Surveying Startups and Products in (AI for) Digital Health"
 date:   2020-02-08 12:12:19 -0800
 categories: jekyll update
 ---
