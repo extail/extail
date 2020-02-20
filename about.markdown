@@ -18,4 +18,4 @@ We first met as researchers at Google Brain in Mountain View. We started _Explor
 
 _Disclaimer: This blog is a personal project representing only our own opinions and not those of our employers._
 
-**Thank you for reading!**
+### Thank you for reading!
